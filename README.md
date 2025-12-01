@@ -9,7 +9,6 @@ Inside the notebook you’ll find:
 - A very simple baseline strategy you can tweak in a few lines  
 - Basic features + backtest logic you’re encouraged to tear apart  
 - Inventory, value and P&L plots to visualise behaviour over time  
-- At least **one hidden bug** in the inventory logic 👀  
 - A clear **look-ahead bias** baked in on purpose  
 - An updated version with a simple **`buy` / `sell` status** to control the next action and sharpen the execution logic
 
