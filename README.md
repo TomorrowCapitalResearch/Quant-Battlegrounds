@@ -27,11 +27,12 @@ The point is to show how fragile a backtest becomes when you ignore:
 
 If you’re an aspiring quant, use this repo as a small “training ground”:
 
-1. **Find and fix** the inventory bug  
-2. **Remove** the look-ahead bias  
-3. **Add** transaction costs and slippage  
-4. **Beat** the baseline strategy in a clean backtest  
-5. (Optional) Experiment with your own features, entry/exit rules or execution layer
+1. **Develop your Strategy!**
+2. **Advance** the inventory framework
+3. **Remove** the look-ahead bias  
+4. **Add** transaction costs and slippage  
+5. **Beat** the baseline strategy in a clean backtest  
+6. (Optional) Experiment with your own features, entry/exit rules or execution layer
 
 If you build something interesting – new features, better execution rules, or a totally different strategy – feel free to open a PR or tag me on LinkedIn.
 
